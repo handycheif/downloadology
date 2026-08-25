@@ -3,4 +3,4 @@ name = "downloadology"
 
 [assets]
 directory = "./"
-not_found_handling = "single-page-app"
+not_found_handling = "single-page-application"
